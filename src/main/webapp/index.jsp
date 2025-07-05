@@ -29,6 +29,17 @@
             <li class="icon"><a href="#"></a></li>
         </ul>
 
+<ul class="nav-links">
+    <li class="nav-items"><a href="#">TV</a></li>
+    <li class="nav-items"><a href="#">Movies</a></li>
+    <li class="nav-items"><a href="#">Sports</a></li>
+    <li class="nav-items"><a href="#">Premium</a></li>
+    <li class="nav-items"><a href="#">Disney+</a></li>
+    <li class="nav-items"><a href="https://app.manychat.com/fb3158475/subscribers" target="_blank">Manychat</a></li>
+    <li class="icon"><a href="#"></a></li>
+</ul>
+
+
         <div class="right-container">
             <input type="text" class="search-box" placeholder="search">
             <button class="sub-btn">Subscribe</button>
